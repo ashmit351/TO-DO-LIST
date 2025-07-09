@@ -5,8 +5,8 @@ A simple and interactive To‑Do List App built with **HTML, CSS, and JavaScript
 ---
 
 ## 🚀 Live Demo  
-👉 [View it here](https://ashmit351.github.io/TO-DO-LIST/)  
-*(This will work after you enable GitHub Pages in repo settings → Pages → Source: main branch)*
+👉 [(https://ashmit351.github.io/TO-DO-LIST/)]  
+
 
 ---
 
@@ -31,7 +31,7 @@ A simple and interactive To‑Do List App built with **HTML, CSS, and JavaScript
 
 ## 📸 Screenshot
 
-![App Screenshot](screenshot.png)  
+![App Screenshot](Screenshot.png)  
 
 
 ---
