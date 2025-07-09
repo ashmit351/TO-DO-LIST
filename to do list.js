@@ -29,5 +29,5 @@ listcontainer.addEventListener("click", function(e){
      function showTask(){
         listcontainer.innerHTML= localStorage.getItem("data");
      }
-     localStorage.clear();
+     
 showTask()
